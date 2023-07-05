@@ -1,0 +1,39 @@
+table,th,td{
+BORDER:1px solid yellow;
+border-collapse:collapse;
+background-color:skyblue;
+}
+
+.is{
+	font-style:normal;
+}
+.was{
+    font-style:italic;
+}
+.so{
+	font-style:obdique;
+}
+.the{
+     font-weight:normal;
+}
+.that{
+	font-weight:bold;
+}
+
+.this{
+	font-weight:lighter;
+}
+
+.th{
+	font-weight:700;
+}
+.have{
+	font-variant:normal;
+}
+.his{
+	font-variant:small-caps;
+}
+.ms{
+font-size:16px;
+}
+	
